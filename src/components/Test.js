@@ -9,7 +9,7 @@ const Test = () => {
       <center>
         <h1>Welcome to PostDost </h1>
       <p style={{ color: "grey", }}>Qureshi Companies Ltd.</p>
-      <p style={{ color: "grey", }}>CEO: Nimra Raza</p>
+      <p style={{ color: "grey", }}>CEO: Ammar Qureshi</p>
 
       <button onClick= {displayMessage} style={{background: "green",
               border: "0",
