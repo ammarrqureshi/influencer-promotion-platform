@@ -11,7 +11,9 @@ const Test = () => {
     <div>
       <center>
         <Image src={Logo} alt="logo here"  style={{
-          maxWidth: '10%',
+          maxWidth: '300px',
+          width: "200px",
+          
           height: 'auto',
           margin: '50px'
         }}/>
@@ -36,6 +38,12 @@ const Test = () => {
               borderRadius: "10px",
               cursor: "pointer"
     }}>Say Something!</button>
+
+    <br>
+    </br>
+    <br>
+    </br>
+<a type="email" href="contact@postdost.com">contact@postdost.com</a>
 
       </center>
 
